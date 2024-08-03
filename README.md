@@ -30,6 +30,8 @@ python wordle_terminal.py
 - Guess a 5-letter word in up to 6 tries.
 - Colored feedback for guesses.
 
+---
+
 ### `wordle_cracker.py` 🔍
 
 Automatically cracks a Wordle-like puzzle based on feedback.
